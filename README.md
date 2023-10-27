@@ -1,6 +1,5 @@
 ## Hola me llamo Carlos Dario Flores.
 
-- Con Maestria en Ingeniería de Software y Sistemas de la Información .
 
   <a href="https://github.com/carlosdarioio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdarioio&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple" />
